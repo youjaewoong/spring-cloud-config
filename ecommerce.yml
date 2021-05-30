@@ -1,6 +1,6 @@
 token: 
   expiration_time: 86400000
-  secret: my_token
+  secret: my_change_token
 
 gateway:
   ip: 192.168.219.101
